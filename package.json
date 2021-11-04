@@ -19,6 +19,7 @@
   "homepage": "https://github.com/amansaini7999/referralHub-Backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
   }
 }
